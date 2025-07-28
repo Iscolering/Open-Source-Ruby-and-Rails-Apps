@@ -79,8 +79,6 @@ Hey friend! Help me out for a couple of ☕️
    - **Genius**
      - [genius](https://github.com/samblyon/genius) - So-Genius, a lyrics-annotation and discussion site using React.js, Rails and PostgresQL 👴 ✅
      - [Annotator](https://github.com/drj17/Annotator) - Genius clone using a rails backend and react frontend 👴 🚀
-   - **gomoodboard**
-     - [moonboard](https://github.com/emilosman/moonboard) - A moodboard inspired by gomoodboard. Built with Rails and Vue.js. 🔥 ✅ 🚀
    - **Indiegogo**
      - [Greenhouse](https://github.com/MichaelMCoates/Greenhouse) - Greenhouse is a full-stack clone of Indiegogo, built with Ruby on Rails and React.js 🔥 ✅ 🚀
    - **Instagram**
